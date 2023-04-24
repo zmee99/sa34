@@ -143,4 +143,4 @@ client.on('interactionCreate', async interaction => {
   }
 
 });
-client.login.(process.evn.token);
+client.login.("MTA5ODY3NDcwODk5MzU2MDY0Nw.GHucyw.AQDioFys18aHAnk2RVk2qCpLJSrrzOcSjgO4Gk");
